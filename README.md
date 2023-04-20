@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working as a React Frontend Developer and UX/UI Designer<br>📚 I’m currently learning more about frontend frameworks like: Astro, Solid and Svelte<br>🌱 I'd like to learn about Flutter and mobile development
+🚀 Work Position: React Frontend Developer and UX/UI Designer<br>📚 I’m currently learning more about frontend frameworks like: Astro, Solid and Svelte<br>🌱 I'd like to learn about Flutter and mobile development
 
 
 ## 🌐 Socials:
