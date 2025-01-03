@@ -1,14 +1,14 @@
 <div align="left">
-  <img height="150" src="https://steamuserimages-a.akamaihd.net/ugc/93849814307728107/05C64279F092F4F09F8423C0FC0951055922702D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="150" src="https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/655232/tumblr_mg8kk55qAV1qc2jhfo1_500.0.gif"  />
 </div>
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Armando and I'm a React Frontend Developer and UX/UI Designer, from El Salvador 🇸🇻</p>
+<p align="left">My name is Armando and I'm a Frontend Developer and UX/UI Designer from El Salvador 🇸🇻</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1995<br>📚 I’m currently learning more about frontend frameworks like: Astro, Solid and Svelte<br>🌱 I'd like to learn about Flutter and mobile development<br>🐱 Owner of two cats: Tsuki and Mandarino</p>
+<p align="left">✨ Creating bugs since 1995<br>📚 I’m currently learning more about Astro, Node as backend and React Native<br>🌱 I'd like to learn about mobile development<br>🐱 Owner of two cats: Tsuki and Mandarino</p>
 
 ###
 
