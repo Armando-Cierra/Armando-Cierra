@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1995<br>📚 I’m currently learning more about Astro, Node as backend and React Native<br>🌱 I'd like to learn about mobile development<br>🐱 Owner of two cats: Tsuki and Mandarino</p>
+<p align="left">✨ Creating bugs since 1995<br>📚 I’m currently learning more about Astro and NodeJS<br>🌱 I'd like to learn about mobile development<br>🐱 Owner of three cats: Tsuki, Mandarino adn Salem</p>
 
 ###
 
